@@ -1,5 +1,5 @@
 /**Indicates intel assembly syntax**/
-.intel_syscall noprefix
+.intel_syntax noprefix
 /**Indicates where the code should start**/
 .global _start
 _start:
